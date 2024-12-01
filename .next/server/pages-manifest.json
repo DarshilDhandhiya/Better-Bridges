@@ -2,15 +2,12 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/merch": "pages/merch.js",
-  "/events": "pages/events.js",
   "/api/current": "pages/api/current.js",
   "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
-  "/api/users": "pages/api/users.js",
-  "/api/users/[userId]": "pages/api/users/[userId].js",
-  "/": "pages/index.js",
-  "/api/posts": "pages/api/posts.js",
   "/users/[userId]": "pages/users/[userId].js",
-  "/posts/[postId]": "pages/posts/[postId].js",
-  "/api/posts/[postId]": "pages/api/posts/[postId].js"
+  "/api/users": "pages/api/users.js",
+  "/events": "pages/events.js",
+  "/merch": "pages/merch.js",
+  "/api/users/[userId]": "pages/api/users/[userId].js",
+  "/communities": "pages/communities.js"
 }
